@@ -1,10 +1,5 @@
 access
-accident
-accompany
-accomplish
-according
-account
-abandon
 able
-above
-about
+acid
+act
+action
